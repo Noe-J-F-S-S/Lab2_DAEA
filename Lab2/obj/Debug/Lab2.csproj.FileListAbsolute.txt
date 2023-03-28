@@ -1,0 +1,13 @@
+C:\Users\Alumno\source\repos\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\Lab2\Lab2\obj\Debug\Lab2.frmLogin.resources
+C:\Users\Alumno\source\repos\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Alumno\source\repos\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Alumno\source\repos\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Alumno\source\repos\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Alumno\source\repos\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Alumno\source\repos\Lab2\Lab2\obj\Debug\Lab2.manUsuario.resources
+C:\Users\Alumno\source\repos\Lab2\Lab2\obj\Debug\Lab2.PrincipalMDI.resources
